@@ -1,0 +1,358 @@
+C:\Users\Hoshi\Documents\大学\ING. SW. B\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.Alta_Paciente.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.Alta_Usuario.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.Baja_Dentista.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.Busca_Paciente.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.Modificación.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas1.1\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Marycruz\Desktop\Pantallas1.2\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Citas.resources
+E:\Pantallas1.3\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+E:\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+E:\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+E:\Pantallas1.3\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+E:\Pantallas1.3\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+E:\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+E:\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+E:\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+E:\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Citas.resources
+E:\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+E:\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+E:\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+E:\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+E:\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Citas.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.3\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Citas.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas1.4\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Citas.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.5\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.5\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Citas.resources
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Marycruz\Downloads\Pantallas1.7\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Citas.resources
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Marycruz\Downloads\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Citas.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas1.8\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Citas.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas1.9\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Citas.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.0\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Citas.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.1\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Marycruz\Desktop\Pantallas2.2\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Marycruz\Desktop\Pantallas2.2\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\Pantallas2.2\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Marycruz\Desktop\Pantallas2.3\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Marycruz\Desktop\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\IngSW.Citas.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\IngSW.HistorialPaciente.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.Permisos.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.3\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\IngSW.Citas.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\IngSW.HistorialPaciente.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Permisos.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.4\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\IngSW.Citas.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\IngSW.HistorialPaciente.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Permisos.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Marycruz\Desktop\IngSWB\Pantallas2.5\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\IngSW.Citas.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\IngSW.HistorialPaciente.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Permisos.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Hoshi\Documents\大学\ING. SW. B\AVANCESPROYECTO\Pantallas2.6\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Patallas.Citas.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.HistorialPaciente.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Permisos.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.7.1\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Patallas.Citas.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.HistorialPaciente.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Permisos.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Owner\Documents\INGSWB\Pantallas2.8\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.HistorialPaciente.resources
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Permisos.resources
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Marycruz\Desktop\Pantallas2.8_Pepe\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Citas.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Citas.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.HistorialPaciente.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Permisos.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\usuario\Downloads\Pantallas2.9\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.Cache
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe.config
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.exe
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\bin\Debug\Pantallas.pdb
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csprojAssemblyReference.cache
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Administrador.resources
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Buscar.resources
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Dentistas.resources
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Pacientes.resources
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Catálogo_de_Usuarios.resources
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Citas.resources
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.HistorialPaciente.resources
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.LogIn.resources
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Perfil.resources
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Permisos.resources
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.Properties.Resources.resources
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.GenerateResource.cache
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.csproj.CoreCompileInputs.cache
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.exe
+C:\Users\Pepe AG\Documents\ConsultorioDental\ConsultorioDental\Pantallas2.9\Pantallas2.7\Pantallas2.4\Pantallas\Pantallas\obj\Debug\Pantallas.pdb
